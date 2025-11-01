@@ -1,0 +1,18 @@
+fastapi 
+uvicorn[standard] 
+pandas 
+requests 
+python-dotenv 
+pydantic 
+streamlit 
+# LangChain ecosystem
+langchain
+langchain-google-genai
+langchain-community
+faiss-cpu
+# Legacy (keeping for migration)
+chromadb 
+sentence-transformers==5.1.2
+openai 
+aiohttp
+# for geo: geopandas shapely (optional)
